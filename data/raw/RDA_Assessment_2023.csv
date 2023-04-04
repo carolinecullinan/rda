@@ -1,0 +1,703 @@
+﻿Client_ID,Age,Gender,Race,Disability,Program Enrollment,Primary Substance at Enrollment,Frequency of Primary Substance at Enrollment,Program Exit Date,Primary Substance at Exit,Frequency of Primary Substance at Exit
+123566861,63,female,White,Yes,20/12/2015,alcohol,30,20/12/2015,alcohol,20
+123566863,62,female,White,No,20/01/2016,alcohol,30,20/01/2016,alcohol,29
+123566864,69,male,White,Yes,08/09/2015,alcohol,30,08/09/2015,alcohol,30
+123566876,25,male,African American,No,19/05/2016,alcohol,30,19/05/2016,alcohol,2
+123566886,52,male,White,No,22/08/2015,alcohol,1,22/08/2015,alcohol,0
+123566910,40,male,White,Yes,27/12/2015,alcohol,14,27/12/2015,alcohol,13
+123566942,50,female,White,No,15/09/2015,alcohol,30,15/09/2015,alcohol,29
+123566960,65,male,Hispanic,No,01/03/2016,alcohol,30,01/03/2016,alcohol,29
+123566985,61,female,African American,Yes,31/08/2015,alcohol,30,01/10/2015,alcohol,30
+123566990,27,male,White,No,31/07/2015,alcohol,30,31/07/2015,alcohol,29
+123566991,36,female,White,No,31/07/2015,alcohol,30,31/07/2015,alcohol,29
+123566995,45,male,White,No,03/08/2015,heroin,15,01/09/2015,heroin,14
+123567011,31,female,White,No,15/09/2015,methamphetamine,2,15/09/2015,methamphetamine,1
+123567031,50,male,White,No,30/11/2015,alcohol,30,30/11/2015,alcohol,29
+123567037,45,female,White,No,23/10/2015,methamphetamine,23,01/11/2015,methamphetamine,22
+123567058,70,female,White,No,16/02/2016,alcohol,5,16/02/2016,alcohol,4
+123567093,64,male,White,No,05/11/2015,alcohol,10,05/11/2015,alcohol,6
+123567109,57,male,White,No,09/02/2016,alcohol,30,09/02/2016,alcohol,29
+123567151,45,male,White,No,31/12/2015,methamphetamine,10,15/01/2016,None,9
+123567165,52,female,White,Yes,24/02/2016,alcohol,30,24/02/2016,alcohol,29
+123567292,54,female,White,No,09/10/2015,alcohol,30,09/10/2015,alcohol,29
+123567320,61,male,White,No,31/10/2015,alcohol,1,31/10/2015,alcohol,0
+123567402,63,female,White,No,25/01/2016,alcohol,30,25/01/2016,alcohol,30
+123567442,59,male,White,No,08/02/2016,alcohol,5,08/02/2016,alcohol,4
+123567455,47,male,African American,Yes,23/07/2015,alcohol,30,01/10/2015,alcohol,0
+123567464,36,female,White,No,27/02/2016,alcohol,12,27/02/2016,alcohol,11
+123567556,52,male,American Indian,No,01/07/2015,alcohol,8,01/07/2015,alcohol,7
+123567696,59,female,White,No,11/12/2015,alcohol,30,11/12/2015,alcohol,29
+123567701,64,male,White,Yes,27/09/2015,alcohol,30,27/09/2015,alcohol,29
+123567742,42,female,White,No,23/02/2016,alcohol,27,23/02/2016,alcohol,26
+123567756,58,male,White,No,23/04/2016,alcohol,30,23/04/2016,alcohol,29
+123567781,24,male,White,Yes,05/07/2015,alcohol,30,05/07/2015,alcohol,29
+123567831,29,female,White,No,22/03/2016,alcohol,30,22/03/2016,alcohol,29
+123567842,33,male,White,No,16/06/2016,alcohol,30,16/06/2016,alcohol,29
+123567846,28,male,African American,Yes,08/09/2015,heroin,2,09/10/2015,alcohol,30
+123567882,56,male,White,Yes,01/07/2015,alcohol,8,01/07/2015,alcohol,7
+123567899,45,male,White,Yes,03/07/2015,alcohol,4,03/07/2015,alcohol,3
+123567902,38,male,White,No,05/07/2015,alcohol,1,05/07/2015,alcohol,0
+123567914,51,female,African American,No,08/07/2015,alcohol,20,08/07/2015,alcohol,19
+123567971,33,female,White,Yes,19/07/2015,alcohol,3,19/07/2015,alcohol,2
+123568117,29,male,White,No,30/07/2015,alcohol,30,30/07/2015,alcohol,29
+123568125,52,male,White,No,01/08/2015,alcohol,5,01/08/2015,alcohol,4
+123568134,62,female,White,No,01/08/2015,alcohol,20,01/08/2015,alcohol,19
+123568139,57,male,White,No,01/08/2015,alcohol,4,01/08/2015,alcohol,3
+123568174,44,female,White,Yes,09/08/2015,alcohol,10,09/08/2015,alcohol,9
+123568233,57,male,White,No,08/08/2015,alcohol,12,08/08/2015,alcohol,11
+123568284,69,male,White,No,26/08/2015,alcohol,1,26/08/2015,alcohol,0
+123568340,27,male,White,No,27/08/2015,alcohol,1,27/08/2015,alcohol,0
+123568351,44,male,White,Yes,01/09/2015,alcohol,1,01/09/2015,alcohol,0
+123568388,35,female,African American,No,07/09/2015,alcohol,6,07/09/2015,alcohol,5
+123568393,57,male,White,No,05/09/2015,alcohol,1,05/09/2015,alcohol,0
+123568426,42,male,White,No,08/09/2015,alcohol,30,08/09/2015,alcohol,29
+123568438,50,male,White,No,09/09/2015,alcohol,15,09/09/2015,alcohol,14
+123568535,47,male,White,No,12/09/2015,alcohol,10,12/09/2015,alcohol,9
+123568540,58,male,White,No,11/09/2015,alcohol,30,11/09/2015,alcohol,29
+123568590,51,male,White,No,16/09/2015,alcohol,30,16/09/2015,alcohol,30
+123568641,67,male,White,No,22/09/2015,alcohol,30,22/09/2015,alcohol,29
+123568697,58,male,White,No,25/09/2015,alcohol,1,25/09/2015,alcohol,0
+123568762,61,female,White,Yes,01/10/2015,alcohol,3,01/10/2015,alcohol,3
+123568795,34,female,White,Yes,25/10/2015,alcohol,8,25/10/2015,alcohol,7
+123568817,65,male,African American,No,24/10/2015,alcohol,30,24/10/2015,alcohol,29
+123568854,40,male,White,No,13/11/2015,alcohol,10,13/11/2015,alcohol,9
+123568871,67,female,White,No,17/11/2015,alcohol,1,17/11/2015,alcohol,0
+123568912,48,male,White,No,13/12/2015,alcohol,1,13/12/2015,alcohol,0
+123568921,40,male,African American,No,07/12/2015,alcohol,3,07/12/2015,alcohol,2
+123568931,44,female,White,No,09/12/2015,alcohol,15,09/12/2015,alcohol,14
+123569004,30,male,African American,No,17/12/2015,alcohol,26,17/12/2015,alcohol,26
+123569106,29,female,White,No,27/12/2015,alcohol,2,27/12/2015,alcohol,1
+123569117,62,male,White,No,27/12/2015,alcohol,7,27/12/2015,alcohol,6
+123569146,39,male,Hispanic,No,01/01/2016,alcohol,2,01/01/2016,alcohol,1
+123569147,34,male,Other or Multiple Race Groups,No,02/01/2016,alcohol,7,02/01/2016,alcohol,6
+123569162,54,male,Hispanic,No,08/01/2016,methamphetamine,2,08/01/2016,methamphetamine,1
+123569163,54,female,Hispanic,No,13/01/2016,alcohol,10,13/01/2016,alcohol,9
+123569228,42,male,White,No,15/01/2016,alcohol,30,15/01/2016,alcohol,0
+123569296,56,male,African American,No,26/01/2016,alcohol,30,26/01/2016,alcohol,29
+123569297,47,male,White,No,06/02/2016,alcohol,30,06/02/2016,alcohol,29
+123569379,72,male,White,No,12/02/2016,alcohol,15,12/02/2016,alcohol,14
+123569426,46,male,White,No,15/02/2016,alcohol,2,15/02/2016,alcohol,1
+123569466,69,male,White,No,02/02/2016,alcohol,1,02/02/2016,alcohol,0
+123569504,70,male,White,No,19/02/2016,methamphetamine,4,19/02/2016,methamphetamine,0
+123569618,57,male,African American,No,28/02/2016,alcohol,2,28/02/2016,alcohol,1
+123569621,62,male,White,No,28/02/2016,alcohol,28,28/02/2016,alcohol,29
+123569623,48,male,White,No,28/02/2016,alcohol,30,28/02/2016,alcohol,29
+123569626,46,male,White,No,03/03/2016,alcohol,30,03/03/2016,alcohol,29
+123569642,28,male,White,No,07/03/2016,alcohol,30,07/03/2016,alcohol,29
+123569777,39,female,Hispanic,No,13/03/2016,alcohol,30,13/03/2016,alcohol,29
+123569791,51,female,African American,No,20/03/2016,alcohol,4,20/03/2016,alcohol,3
+123569831,55,female,White,No,20/03/2016,alcohol,30,20/03/2016,alcohol,29
+123569836,46,female,White,No,31/03/2016,alcohol,7,31/03/2016,alcohol,6
+123569856,24,male,White,No,02/04/2016,alcohol,5,02/04/2016,alcohol,4
+123569888,58,male,White,No,05/04/2016,alcohol,2,05/04/2016,alcohol,1
+123569911,25,male,Hispanic,No,12/04/2016,alcohol,30,12/04/2016,alcohol,29
+123569912,41,male,White,No,14/04/2016,alcohol,30,14/04/2016,alcohol,29
+123570006,50,male,White,No,02/05/2016,alcohol,30,02/05/2016,alcohol,29
+123570007,30,female,Other or Multiple Race Groups,No,06/05/2016,alcohol,3,06/05/2016,alcohol,1
+123570050,37,female,White,No,16/05/2016,alcohol,30,16/05/2016,alcohol,25
+123570070,46,male,Hispanic,No,28/05/2016,alcohol,30,28/05/2016,alcohol,29
+123570105,31,male,White,No,30/05/2016,alcohol,15,30/05/2016,alcohol,14
+123570180,51,male,White,Yes,25/06/2016,alcohol,1,25/06/2016,alcohol,0
+123570181,25,male,White,No,25/06/2016,alcohol,10,25/06/2016,alcohol,9
+123570221,31,male,White,Yes,26/06/2016,alcohol,6,26/06/2016,alcohol,5
+123570238,40,male,White,No,28/06/2016,alcohol,30,28/06/2016,alcohol,29
+123570246,43,female,Asian or Pacific Islander,No,20/03/2016,alcohol,4,21/03/2016,alcohol,2
+123570287,62,male,White,No,06/08/2015,alcohol,20,07/08/2015,alcohol,18
+123570299,35,female,Hispanic,No,19/12/2015,alcohol,10,20/12/2015,alcohol,8
+123570332,47,male,White,Yes,04/12/2015,marijuana,14,05/12/2015,methamphetamine,28
+123570343,52,female,White,No,31/05/2016,alcohol,30,01/06/2016,alcohol,29
+123570361,32,male,White,No,20/06/2016,marijuana,2,21/06/2016,alcohol,30
+123570370,43,male,White,No,12/11/2015,alcohol,5,13/11/2015,alcohol,3
+123570394,52,male,White,No,06/12/2015,alcohol,3,07/12/2015,methamphetamine,2
+123570432,36,male,White,No,24/11/2015,alcohol,30,25/11/2015,alcohol,29
+123570460,45,female,White,No,16/02/2016,heroin,1,17/02/2016,heroin,0
+123570553,64,male,White,No,24/05/2016,alcohol,30,25/05/2016,alcohol,28
+123570554,65,male,White,No,25/11/2015,methamphetamine,8,26/11/2015,methamphetamine,6
+123570588,64,male,White,No,17/01/2016,alcohol,30,18/01/2016,alcohol,28
+123570611,59,male,White,No,29/02/2016,alcohol,30,01/03/2016,alcohol,28
+123570615,43,male,White,No,04/06/2016,alcohol,30,05/06/2016,alcohol,28
+123570687,66,male,White,Yes,05/09/2015,alcohol,2,06/09/2015,alcohol,2
+123570688,61,male,White,No,22/01/2016,alcohol,15,23/01/2016,alcohol,14
+123570720,62,male,White,No,23/11/2015,alcohol,30,24/11/2015,alcohol,29
+123570744,27,female,White,No,30/12/2015,alcohol,3,31/12/2015,alcohol,2
+123570827,51,male,White,No,15/06/2016,other,7,16/06/2016,heroin,5
+123570837,26,male,White,No,04/10/2015,methamphetamine,1,05/10/2015,methamphetamine,0
+123570875,37,female,White,No,03/05/2016,alcohol,30,04/05/2016,alcohol,29
+123570900,29,male,White,No,17/08/2015,alcohol,5,18/08/2015,alcohol,3
+123570923,63,female,White,No,15/10/2015,alcohol,30,16/10/2015,alcohol,28
+123570983,35,male,White,No,30/09/2015,alcohol,30,01/10/2015,alcohol,28
+123570988,57,male,White,No,03/12/2015,alcohol,3,04/12/2015,alcohol,1
+123571004,52,female,White,No,03/07/2015,alcohol,2,04/07/2015,alcohol,0
+123571008,58,male,White,Yes,14/07/2015,cocaine/crack,30,01/08/2015,cocaine/crack,28
+123571012,28,male,White,No,18/07/2015,alcohol,16,19/07/2015,alcohol,16
+123571095,35,male,White,No,21/07/2015,alcohol,15,22/07/2015,alcohol,14
+123571309,61,male,African American,No,23/07/2015,alcohol,30,24/07/2015,alcohol,28
+123571335,22,male,Other or Multiple Race Groups,No,22/07/2015,alcohol,30,23/07/2015,alcohol,28
+123571352,38,male,White,No,27/06/2016,methamphetamine,30,01/10/2016,methamphetamine,1
+123571407,62,male,White,No,03/08/2015,alcohol,20,04/08/2015,alcohol,15
+123571440,48,male,White,No,19/05/2016,alcohol,27,20/05/2016,alcohol,25
+123571451,32,male,Other or Multiple Race Groups,No,22/08/2015,alcohol,2,23/08/2015,alcohol,0
+123571455,44,male,Hispanic,No,02/09/2015,alcohol,30,03/09/2015,alcohol,28
+123571509,24,male,White,No,05/09/2015,alcohol,7,06/09/2015,alcohol,5
+123571600,39,female,African American,No,09/09/2015,alcohol,30,10/09/2015,alcohol,28
+123571672,33,male,Hispanic,No,11/09/2015,alcohol,30,12/09/2015,alcohol,28
+123571726,55,male,White,No,18/10/2015,alcohol,30,19/10/2015,alcohol,29
+123571741,44,male,African American,No,13/09/2015,alcohol,2,14/09/2015,alcohol,0
+123571807,50,male,African American,No,16/09/2015,alcohol,1,17/09/2015,alcohol,0
+123571825,56,male,White,No,25/09/2015,alcohol,1,26/09/2015,alcohol,0
+123571904,55,male,White,No,13/10/2015,alcohol,30,14/10/2015,alcohol,29
+123571916,41,female,White,No,14/10/2015,alcohol,30,15/10/2015,alcohol,28
+123571938,55,male,White,No,18/10/2015,alcohol,30,19/10/2015,alcohol,29
+123571986,31,male,African American,No,21/10/2015,alcohol,30,22/10/2015,alcohol,29
+123571987,50,female,White,No,22/10/2015,alcohol,1,23/10/2015,alcohol,0
+123571998,28,male,White,No,27/10/2015,alcohol,20,28/10/2015,alcohol,19
+123572027,36,female,White,No,28/10/2015,alcohol,20,29/10/2015,alcohol,18
+123572039,52,male,White,No,29/11/2015,alcohol,30,30/11/2015,alcohol,29
+123572040,56,male,Other or Multiple Race Groups,No,29/11/2015,alcohol,28,30/11/2015,alcohol,27
+123572058,26,female,White,No,03/12/2015,alcohol,30,04/12/2015,alcohol,28
+123572065,44,male,African American,No,23/12/2015,alcohol,10,24/12/2015,alcohol,10
+123572104,49,male,Hispanic,No,03/01/2016,methamphetamine,30,01/02/2016,methamphetamine,28
+123572108,56,female,White,No,08/01/2016,alcohol,2,09/01/2016,alcohol,0
+123572132,55,male,White,No,18/01/2016,alcohol,15,19/01/2016,alcohol,13
+123572150,63,male,White,No,20/01/2016,heroin,1,21/01/2016,heroin,0
+123572229,48,female,White,No,16/02/2016,alcohol,2,17/02/2016,alcohol,0
+123572378,40,male,African American,No,10/02/2016,alcohol,1,11/02/2016,alcohol,0
+123572379,45,male,White,No,02/02/2016,alcohol,5,03/02/2016,alcohol,3
+123572436,24,male,African American,No,24/02/2016,alcohol,30,25/02/2016,alcohol,28
+123572438,50,male,White,No,24/02/2016,alcohol,1,25/02/2016,alcohol,28
+123572448,42,male,White,No,24/02/2016,alcohol,5,25/02/2016,alcohol,3
+123572449,53,female,White,No,06/03/2016,methamphetamine,1,07/03/2016,methamphetamine,0
+123572484,45,female,White,No,21/03/2016,heroin,30,01/04/2016,heroin,28
+123572504,25,male,White,No,21/03/2016,alcohol,1,22/03/2016,alcohol,0
+123572568,37,male,Other or Multiple Race Groups,No,24/04/2016,alcohol,15,25/04/2016,alcohol,13
+123572595,47,male,White,No,16/05/2016,alcohol,2,17/05/2016,alcohol,2
+123572603,25,male,White,No,18/05/2016,alcohol,30,19/05/2016,alcohol,28
+123572631,56,male,African American,No,21/05/2016,alcohol,20,22/05/2016,alcohol,18
+123572642,64,male,White,No,22/05/2016,alcohol,30,23/05/2016,alcohol,28
+123572655,64,male,White,No,23/05/2016,heroin,5,24/05/2016,heroin,5
+123572674,53,male,White,No,29/05/2016,alcohol,29,30/05/2016,alcohol,29
+123572690,41,male,White,No,18/06/2016,methamphetamine,20,19/06/2016,methamphetamine,18
+123572693,42,female,Hispanic,No,21/06/2016,alcohol,30,22/06/2016,alcohol,28
+123572720,54,male,White,No,24/06/2016,alcohol,3,25/06/2016,alcohol,1
+123572727,41,male,White,No,24/06/2016,alcohol,1,25/06/2016,alcohol,0
+123572738,54,male,American Indian,No,25/04/2016,methamphetamine,30,01/05/2016,methamphetamine,27
+123572745,59,male,White,No,17/09/2015,alcohol,30,19/09/2015,alcohol,27
+123572757,43,male,African American,No,26/08/2015,heroin,28,01/09/2015,heroin,25
+123572824,55,male,White,No,06/07/2015,methamphetamine,30,08/07/2015,methamphetamine,27
+123572838,60,male,African American,No,15/03/2016,alcohol,1,17/03/2016,alcohol,0
+123572841,48,female,White,No,26/09/2015,alcohol,17,28/09/2015,alcohol,14
+123572848,52,male,White,No,06/09/2015,alcohol,7,08/09/2015,alcohol,10
+123572870,46,male,White,No,17/10/2015,alcohol,30,19/10/2015,alcohol,29
+123572880,52,male,White,No,17/04/2016,alcohol,28,19/04/2016,alcohol,27
+123572914,59,female,White,No,24/05/2016,alcohol,1,26/05/2016,alcohol,0
+123572925,39,female,White,No,23/03/2016,methamphetamine,4,25/03/2016,methamphetamine,1
+123572931,57,female,White,No,01/03/2016,methamphetamine,30,03/03/2016,methamphetamine,27
+123572939,23,female,African American,No,17/01/2016,methamphetamine,14,20/02/2016,methamphetamine,11
+123573016,27,male,White,No,29/04/2016,other,30,01/05/2016,other,27
+123573036,67,male,White,No,19/08/2015,alcohol,10,21/08/2015,alcohol,7
+123573060,28,male,Hispanic,No,13/03/2016,alcohol,10,15/03/2016,alcohol,7
+123573065,54,male,Hispanic,No,15/07/2015,alcohol,30,17/07/2015,alcohol,27
+123573181,50,male,White,No,18/07/2015,alcohol,30,20/07/2015,alcohol,28
+123573199,25,male,White,No,08/07/2015,alcohol,1,10/07/2015,alcohol,0
+123573200,32,female,White,No,29/01/2016,heroin,8,31/01/2016,heroin,5
+123573225,49,male,White,No,18/06/2016,methamphetamine,7,20/06/2016,methamphetamine,2
+123573244,33,female,White,No,08/12/2015,alcohol,1,10/12/2015,alcohol,0
+123573247,43,female,White,No,02/11/2015,alcohol,7,04/11/2015,alcohol,4
+123573257,31,male,Other or Multiple Race Groups,No,01/07/2015,methamphetamine,5,03/07/2015,methamphetamine,2
+123573271,44,male,Hispanic,No,01/07/2015,methamphetamine,1,03/07/2015,methamphetamine,0
+123573296,60,male,White,No,09/08/2015,heroin,4,11/08/2015,heroin,1
+123573311,58,female,White,No,05/09/2015,alcohol,3,07/09/2015,alcohol,0
+123573361,56,male,Asian or Pacific Islander,No,14/09/2015,alcohol,1,16/09/2015,alcohol,0
+123573381,25,male,White,No,19/09/2015,heroin,28,21/09/2015,heroin,25
+123573391,52,male,White,No,20/09/2015,alcohol,1,22/09/2015,alcohol,0
+123573401,24,male,African American,No,30/09/2015,alcohol,20,02/10/2015,alcohol,0
+123573427,38,male,White,No,08/11/2015,alcohol,20,10/11/2015,alcohol,19
+123573438,48,female,White,No,08/02/2016,alcohol,24,10/02/2016,alcohol,21
+123573485,33,male,White,No,09/10/2015,methamphetamine,1,11/10/2015,methamphetamine,0
+123573499,37,male,White,No,17/10/2015,alcohol,4,19/10/2015,alcohol,3
+123573557,61,male,African American,No,17/10/2015,alcohol,4,19/10/2015,alcohol,3
+123573567,34,male,African American,No,28/10/2015,alcohol,2,30/10/2015,alcohol,0
+123573592,41,female,White,No,02/11/2015,alcohol,3,04/11/2015,alcohol,2
+123573597,26,male,White,No,03/11/2015,alcohol,20,05/11/2015,alcohol,18
+123573598,26,male,White,Yes,09/11/2015,alcohol,30,11/11/2015,alcohol,27
+123573620,43,male,Hispanic,No,01/12/2015,alcohol,30,03/12/2015,alcohol,29
+123573621,46,male,White,No,02/12/2015,other,1,04/12/2015,oxycodone/oxycontin,0
+123573626,66,female,White,No,22/12/2015,marijuana,2,24/12/2015,marijuana,0
+123573630,30,male,Other or Multiple Race Groups,No,02/01/2016,alcohol,30,04/01/2016,alcohol,27
+123573651,25,female,Hispanic,No,03/01/2016,heroin,30,01/02/2016,heroin,27
+123573685,56,female,White,Yes,05/01/2016,alcohol,30,07/01/2016,alcohol,27
+123573694,27,male,White,No,04/03/2016,alcohol,9,06/03/2016,alcohol,6
+123573759,37,male,White,No,29/01/2016,heroin,30,31/01/2016,heroin,27
+123573775,38,male,White,No,09/02/2016,heroin,15,11/02/2016,heroin,12
+123573796,30,male,White,No,16/02/2016,alcohol,1,18/02/2016,alcohol,0
+123574812,31,male,Hispanic,No,29/02/2016,alcohol,30,02/03/2016,alcohol,27
+123574818,38,male,Other or Multiple Race Groups,No,02/03/2016,oxycodone/oxycontin,26,04/03/2016,oxycodone/oxycontin,23
+123574834,61,female,White,No,06/03/2016,cocaine/crack,28,08/03/2016,cocaine/crack,25
+123574835,41,male,White,No,17/03/2016,alcohol,8,19/03/2016,alcohol,5
+123574837,59,male,Hispanic,No,22/03/2016,alcohol,8,24/03/2016,alcohol,4
+123574879,55,male,White,No,29/03/2016,methamphetamine,2,31/03/2016,methamphetamine,0
+123574921,68,male,African American,No,09/04/2016,alcohol,1,11/04/2016,alcohol,0
+123575954,57,male,White,No,20/04/2016,methamphetamine,24,22/04/2016,methamphetamine,21
+123575963,40,female,American Indian,No,29/04/2016,alcohol,15,01/05/2016,alcohol,12
+123576017,64,female,White,No,13/05/2016,heroin,2,15/05/2016,heroin,2
+123576019,49,male,White,No,13/05/2016,alcohol,30,15/05/2016,alcohol,18
+123576049,54,female,White,No,13/05/2016,heroin,22,15/05/2016,heroin,22
+123576061,50,female,White,No,29/05/2016,alcohol,30,31/05/2016,alcohol,30
+123576072,55,male,White,No,30/05/2016,alcohol,30,01/06/2016,alcohol,27
+123576103,59,male,African American,No,15/06/2016,methamphetamine,1,17/06/2016,methamphetamine,1
+123576133,57,female,White,No,27/06/2016,oxycodone/oxycontin,30,29/06/2016,oxycodone/oxycontin,27
+123576134,65,female,White,No,18/12/2015,heroin,13,21/12/2015,heroin,9
+123576155,37,male,White,No,09/09/2015,alcohol,3,12/09/2015,alcohol,0
+123576156,48,female,White,Yes,28/11/2015,methamphetamine,3,01/12/2015,methamphetamine,0
+123576157,33,male,White,No,11/10/2015,alcohol,2,14/10/2015,alcohol,0
+123576215,64,male,White,No,04/04/2016,alcohol,10,07/04/2016,alcohol,6
+123576216,33,male,White,No,15/03/2016,alcohol,5,18/03/2016,alcohol,2
+123576217,41,male,White,No,19/08/2015,marijuana,30,22/08/2015,methamphetamine,26
+123576245,31,female,White,No,27/10/2015,methamphetamine,5,30/10/2015,methamphetamine,2
+123576444,42,female,White,No,21/12/2015,methamphetamine,8,24/12/2015,methamphetamine,26
+123576445,37,male,White,No,17/11/2015,alcohol,30,20/11/2015,alcohol,27
+123576453,41,female,White,No,06/11/2015,alcohol,8,09/11/2015,alcohol,6
+123576471,22,male,Hispanic,No,06/11/2015,alcohol,30,09/11/2015,alcohol,27
+123576472,50,male,White,No,16/10/2015,methamphetamine,2,19/10/2015,methamphetamine,0
+123576494,28,male,African American,No,27/02/2016,heroin,24,01/04/2016,heroin,1
+123576495,60,male,White,No,04/09/2015,alcohol,15,07/09/2015,alcohol,11
+123576524,70,female,White,Yes,18/08/2015,heroin,30,21/08/2015,heroin,26
+123576559,30,male,White,No,25/06/2016,alcohol,1,28/06/2016,alcohol,0
+123576647,35,male,White,No,02/09/2015,heroin,30,05/09/2015,heroin,26
+123576683,38,male,Hispanic,Yes,01/02/2016,alcohol,29,01/03/2016,alcohol,25
+123576684,26,female,White,No,06/05/2016,alcohol,20,09/05/2016,alcohol,0
+123576716,40,female,White,No,06/07/2015,heroin,10,09/07/2015,heroin,5
+123576718,23,male,White,No,25/06/2016,alcohol,30,28/06/2016,alcohol,26
+123576722,28,male,White,Yes,19/08/2015,alcohol,30,22/08/2015,alcohol,26
+123576756,29,male,Asian or Pacific Islander,No,12/07/2015,alcohol,2,15/07/2015,alcohol,0
+123576765,43,male,White,No,14/09/2015,alcohol,30,17/09/2015,alcohol,26
+123576770,40,male,White,No,15/07/2015,methamphetamine,25,18/07/2015,methamphetamine,21
+123576795,23,female,Other or Multiple Race Groups,No,07/09/2015,alcohol,25,10/09/2015,alcohol,21
+123576812,57,female,White,No,24/07/2015,alcohol,20,27/07/2015,alcohol,16
+123577840,31,male,White,No,09/03/2016,alcohol,5,12/03/2016,alcohol,1
+123577851,50,female,White,No,20/01/2016,methamphetamine,1,23/01/2016,methamphetamine,0
+123577852,21,male,White,No,21/08/2015,oxycodone/oxycontin,2,24/08/2015,oxycodone/oxycontin,0
+123577853,57,male,White,No,16/07/2015,methamphetamine,10,19/07/2015,heroin,6
+123577879,60,female,White,No,02/12/2015,methamphetamine,4,05/12/2015,methamphetamine,0
+123577888,60,male,White,No,11/04/2016,alcohol,2,14/04/2016,alcohol,0
+123577899,40,female,White,No,04/03/2016,alcohol,30,07/03/2016,alcohol,26
+123577909,57,male,White,No,13/10/2015,other,5,16/10/2015,alcohol,0
+123577910,45,male,White,No,31/07/2015,heroin,30,03/08/2015,heroin,26
+123577911,45,male,White,No,27/11/2015,alcohol,3,30/11/2015,alcohol,0
+123577917,56,male,White,No,07/07/2015,heroin,20,10/07/2015,heroin,16
+123577921,41,female,White,No,13/10/2015,other,30,16/10/2015,other,24
+123577935,38,male,White,Yes,20/11/2015,heroin,30,23/11/2015,heroin,28
+123577980,36,male,White,Yes,01/05/2016,heroin,30,04/05/2016,heroin,26
+123577983,28,male,White,No,14/06/2016,alcohol,21,17/06/2016,alcohol,17
+123577994,44,male,Hispanic,No,07/07/2015,alcohol,8,10/07/2015,alcohol,4
+123578030,26,male,White,No,08/07/2015,alcohol,20,11/07/2015,alcohol,16
+123578038,46,male,White,No,10/07/2015,alcohol,30,13/07/2015,alcohol,26
+123578047,49,female,White,No,16/07/2015,alcohol,14,19/07/2015,alcohol,13
+123578077,46,male,Hispanic,No,24/07/2015,alcohol,17,27/07/2015,alcohol,13
+123578089,47,female,White,No,27/07/2015,alcohol,3,30/07/2015,alcohol,0
+123578101,45,male,Hispanic,No,10/08/2015,alcohol,30,13/08/2015,alcohol,26
+123578110,53,female,American Indian,No,18/08/2015,heroin,30,01/09/2015,heroin,26
+123578115,51,male,Hispanic,No,01/02/2016,alcohol,29,04/02/2016,alcohol,26
+123578116,25,male,Hispanic,No,23/08/2015,heroin,7,26/08/2015,alcohol,3
+123578117,47,female,White,No,25/08/2015,alcohol,15,28/08/2015,alcohol,11
+123578118,34,male,White,No,26/08/2015,alcohol,29,29/08/2015,alcohol,25
+123578120,62,female,White,No,02/09/2015,alcohol,30,05/09/2015,alcohol,26
+123578121,45,female,Hispanic,Yes,10/09/2015,methamphetamine,2,01/10/2015,methamphetamine,0
+123578123,51,female,White,No,11/09/2015,heroin,30,14/09/2015,heroin,26
+123578125,27,male,White,No,14/09/2015,cocaine/crack,1,17/09/2015,cocaine/crack,0
+123578126,33,female,Hispanic,No,16/09/2015,methamphetamine,10,01/10/2015,methamphetamine,5
+123578128,57,female,White,No,18/09/2015,alcohol,2,21/09/2015,alcohol,0
+123578129,23,male,White,No,23/09/2015,methamphetamine,5,26/09/2015,methamphetamine,1
+123578131,30,male,African American,No,02/10/2015,alcohol,30,05/10/2015,alcohol,26
+123578140,62,male,White,No,10/10/2015,alcohol,2,13/10/2015,alcohol,1
+123578148,30,male,White,No,11/12/2015,alcohol,30,14/12/2015,alcohol,26
+123578149,43,male,White,No,26/12/2015,alcohol,26,29/12/2015,alcohol,22
+123578150,46,female,African American,No,12/10/2015,alcohol,30,15/10/2015,alcohol,27
+123578151,60,female,White,No,30/10/2015,alcohol,1,02/11/2015,alcohol,0
+123578160,49,male,White,No,06/11/2015,alcohol,5,09/11/2015,alcohol,3
+123578174,59,male,African American,No,07/11/2015,oxycodone/oxycontin,10,10/11/2015,oxycodone/oxycontin,7
+123578175,52,female,White,No,09/11/2015,alcohol,4,12/11/2015,alcohol,1
+123578193,32,male,White,No,20/11/2015,alcohol,20,23/11/2015,alcohol,18
+123578194,41,male,Hispanic,No,27/11/2015,alcohol,30,30/11/2015,alcohol,26
+123578196,49,male,White,No,27/11/2015,alcohol,1,30/11/2015,alcohol,0
+123578202,30,male,African American,No,01/12/2015,alcohol,30,04/12/2015,alcohol,26
+123578216,24,male,White,No,09/12/2015,heroin,29,12/12/2015,heroin,25
+123578217,41,male,Hispanic,No,12/12/2015,alcohol,30,15/12/2015,alcohol,27
+123578218,67,male,White,No,15/12/2015,alcohol,1,18/12/2015,alcohol,1
+123578223,47,male,White,No,19/12/2015,alcohol,30,22/12/2015,alcohol,26
+123578224,53,male,White,Yes,23/12/2015,methamphetamine,2,26/12/2015,methamphetamine,0
+123578226,21,female,White,No,01/01/2016,heroin,4,04/01/2016,heroin,0
+123578231,32,female,White,No,25/01/2016,methamphetamine,3,28/01/2016,methamphetamine,3
+123578241,53,male,African American,No,28/01/2016,heroin,15,01/02/2016,heroin,11
+123578248,46,male,African American,No,30/01/2016,other,10,02/02/2016,other,6
+123578252,73,female,White,No,06/02/2016,alcohol,3,09/02/2016,alcohol,0
+123578253,54,male,White,No,09/02/2016,methamphetamine,30,12/02/2016,methamphetamine,26
+123578256,41,female,White,No,11/02/2016,methamphetamine,10,14/02/2016,methamphetamine,6
+123578266,52,female,White,Yes,12/02/2016,heroin,4,15/02/2016,heroin,0
+123578274,23,male,White,No,02/02/2016,alcohol,2,05/02/2016,alcohol,0
+123578275,22,male,White,No,19/02/2016,alcohol,1,22/02/2016,alcohol,0
+123578277,53,male,White,No,20/02/2016,cocaine/crack,28,23/02/2016,cocaine/crack,24
+123578299,36,male,White,No,23/02/2016,methamphetamine,2,26/02/2016,methamphetamine,0
+123578305,28,female,Other or Multiple Race Groups,No,27/02/2016,methamphetamine,3,01/03/2016,methamphetamine,0
+123578310,58,female,White,No,07/03/2016,alcohol,30,10/03/2016,alcohol,26
+123578311,45,male,White,No,13/03/2016,marijuana,2,16/03/2016,marijuana,0
+123578312,24,male,White,No,17/03/2016,methamphetamine,5,20/03/2016,methamphetamine,4
+123578314,27,male,African American,No,10/05/2016,alcohol,30,13/05/2016,alcohol,26
+123578316,21,male,Hispanic,No,23/03/2016,alcohol,30,26/03/2016,alcohol,26
+123578317,28,female,White,No,24/03/2016,alcohol,10,27/03/2016,alcohol,6
+123578321,56,male,White,No,30/03/2016,alcohol,1,02/04/2016,alcohol,0
+123578334,41,female,African American,No,07/04/2016,alcohol,1,10/04/2016,alcohol,0
+123578339,35,female,African American,Yes,17/04/2016,methamphetamine,15,01/06/2016,methamphetamine,11
+123578348,57,male,Hispanic,No,17/05/2016,alcohol,10,20/05/2016,alcohol,6
+123578353,66,female,African American,Yes,19/05/2016,methamphetamine,1,01/06/2016,methamphetamine,0
+123578354,23,male,White,No,20/05/2016,alcohol,2,23/05/2016,alcohol,0
+123578357,31,male,White,No,21/05/2016,alcohol,4,24/05/2016,alcohol,4
+123578358,26,male,Hispanic,No,24/05/2016,methamphetamine,23,02/06/2016,methamphetamine,19
+123578368,39,male,White,No,27/05/2016,heroin,5,30/05/2016,heroin,1
+123578370,37,female,White,No,28/05/2016,methamphetamine,15,31/05/2016,methamphetamine,15
+123578372,31,female,White,No,01/06/2016,methamphetamine,1,04/06/2016,methamphetamine,0
+123578376,37,female,African American,No,03/06/2016,marijuana,30,06/06/2016,marijuana,26
+123578377,40,male,Hispanic,No,04/06/2016,methamphetamine,15,02/07/2016,methamphetamine,11
+123578378,29,female,White,No,13/06/2016,heroin,25,16/06/2016,heroin,21
+123578380,71,male,White,No,14/06/2016,alcohol,2,17/06/2016,alcohol,0
+123578381,44,male,White,No,26/06/2016,heroin,6,29/06/2016,heroin,1
+123578422,38,male,Hispanic,No,17/05/2016,alcohol,17,21/05/2016,alcohol,9
+123578433,60,male,White,Yes,26/11/2015,methamphetamine,10,30/11/2015,methamphetamine,5
+123578434,54,female,White,No,21/08/2015,methamphetamine,5,25/08/2015,methamphetamine,1
+123578443,67,male,White,No,20/02/2016,alcohol,30,24/02/2016,alcohol,26
+123578444,55,male,Hispanic,No,18/05/2016,methamphetamine,30,02/06/2016,methamphetamine,25
+123578446,50,male,Other or Multiple Race Groups,No,10/07/2015,alcohol,30,14/07/2015,alcohol,25
+123578447,26,female,White,No,16/10/2015,alcohol,3,20/10/2015,alcohol,0
+123578448,50,female,White,No,27/08/2015,heroin,1,31/08/2015,heroin,0
+123578449,26,female,White,No,05/11/2015,alcohol,29,09/11/2015,alcohol,28
+123578457,61,male,White,Yes,27/04/2016,alcohol,29,01/05/2016,alcohol,24
+123578458,25,female,Hispanic,Yes,20/08/2015,heroin,15,01/10/2015,heroin,11
+123578460,38,male,White,No,27/08/2015,methamphetamine,24,31/08/2015,methamphetamine,19
+123578465,27,male,White,No,06/01/2016,methamphetamine,30,10/01/2016,methamphetamine,25
+123578466,29,male,White,No,04/04/2016,cocaine/crack,20,08/04/2016,cocaine/crack,15
+123578470,60,male,White,Yes,20/07/2015,methamphetamine,2,24/07/2015,methamphetamine,0
+123578471,23,female,Hispanic,No,04/12/2015,methamphetamine,28,15/01/2016,methamphetamine,23
+123578489,27,male,White,No,19/10/2015,methamphetamine,2,23/10/2015,methamphetamine,0
+123578490,24,male,American Indian,No,27/05/2016,methamphetamine,15,01/07/2016,methamphetamine,10
+123578491,68,male,White,Yes,14/09/2015,cocaine/crack,15,18/09/2015,cocaine/crack,1
+123578492,26,male,White,No,09/05/2016,alcohol,20,13/05/2016,alcohol,20
+123578495,25,male,White,No,09/10/2015,alcohol,15,13/10/2015,alcohol,14
+123578496,24,male,White,No,18/12/2015,alcohol,4,22/12/2015,alcohol,0
+123578504,56,male,White,No,04/08/2015,alcohol,30,08/08/2015,alcohol,25
+123578505,48,male,White,Yes,27/12/2015,alcohol,21,31/12/2015,alcohol,16
+123578506,36,female,Other or Multiple Race Groups,No,01/04/2016,alcohol,2,05/04/2016,alcohol,1
+123578511,59,male,White,Yes,13/07/2015,methamphetamine,2,17/07/2015,methamphetamine,0
+123578518,50,male,White,No,26/10/2015,methamphetamine,15,30/10/2015,methamphetamine,10
+123578519,29,male,Hispanic,No,13/11/2015,heroin,22,31/12/2015,heroin,17
+123578520,45,male,White,No,01/12/2015,methamphetamine,30,05/12/2015,methamphetamine,25
+123578521,65,female,African American,Yes,13/08/2015,alcohol,30,01/10/2015,alcohol,25
+123578529,53,female,White,No,31/03/2016,methamphetamine,2,04/04/2016,methamphetamine,0
+123578530,34,male,White,Yes,10/07/2015,heroin,28,14/07/2015,heroin,23
+123578546,32,male,White,No,10/07/2015,cocaine/crack,7,14/07/2015,cocaine/crack,2
+123578551,60,male,African American,No,30/07/2015,alcohol,1,03/08/2015,alcohol,0
+123578552,28,male,White,No,13/08/2015,methamphetamine,20,17/08/2015,methamphetamine,15
+123578555,46,male,White,No,07/09/2015,other,2,11/09/2015,other,0
+123578556,39,male,White,No,10/09/2015,methamphetamine,30,14/09/2015,methamphetamine,25
+123578560,42,male,Hispanic,No,28/09/2015,heroin,3,02/10/2015,heroin,0
+123578562,36,male,Hispanic,No,27/11/2015,alcohol,2,01/12/2015,alcohol,0
+123578565,30,male,White,No,04/10/2015,alcohol,27,08/10/2015,alcohol,22
+123578575,28,male,African American,No,06/10/2015,alcohol,30,10/10/2015,alcohol,25
+123578578,36,female,White,No,10/10/2015,alcohol,9,14/10/2015,alcohol,5
+123578579,26,male,White,No,10/10/2015,alcohol,10,14/10/2015,alcohol,9
+123578581,47,male,White,No,08/11/2015,other,1,12/11/2015,other,0
+123578590,49,female,White,No,07/11/2015,marijuana,4,11/11/2015,marijuana,0
+123578594,58,male,White,No,06/12/2015,heroin,24,10/12/2015,heroin,19
+123579602,23,male,Hispanic,No,07/12/2015,alcohol,30,11/12/2015,alcohol,25
+123579603,42,male,White,No,17/12/2015,methamphetamine,2,21/12/2015,methamphetamine,0
+123579604,46,male,Hispanic,No,28/12/2015,heroin,30,01/02/2016,heroin,26
+123579605,28,female,White,No,09/01/2016,alcohol,5,13/01/2016,alcohol,0
+123579606,53,female,White,Yes,08/01/2016,heroin,30,12/01/2016,heroin,15
+123579622,56,male,African American,Yes,01/02/2016,heroin,30,05/03/2016,heroin,25
+123579623,21,female,Hispanic,No,04/02/2016,alcohol,30,08/02/2016,alcohol,25
+123579624,26,female,White,No,06/02/2016,alcohol,19,10/02/2016,alcohol,14
+123579637,53,male,African American,No,25/02/2016,alcohol,7,29/02/2016,alcohol,2
+123579638,35,male,Other or Multiple Race Groups,No,03/03/2016,methamphetamine,6,07/03/2016,methamphetamine,1
+123579646,47,male,White,No,01/04/2016,methamphetamine,6,05/04/2016,methamphetamine,1
+123579647,37,male,White,No,17/06/2016,alcohol,30,21/06/2016,alcohol,25
+123579658,51,male,White,No,09/05/2016,alcohol,30,13/05/2016,alcohol,25
+123579659,25,male,White,No,09/05/2016,heroin,7,13/05/2016,heroin,7
+123579660,48,male,White,No,18/05/2016,heroin,15,22/05/2016,heroin,10
+123579662,47,female,White,Yes,27/05/2016,methamphetamine,15,31/05/2016,methamphetamine,15
+123579668,61,male,White,No,11/06/2016,cocaine/crack,30,15/06/2016,cocaine/crack,25
+123579669,71,male,White,No,05/06/2016,methamphetamine,17,09/06/2016,methamphetamine,12
+123579671,56,male,White,No,29/08/2015,methamphetamine,20,03/09/2015,methamphetamine,14
+123579672,29,female,White,No,06/08/2015,alcohol,30,11/08/2015,alcohol,6
+123579673,44,male,Asian or Pacific Islander,No,23/12/2015,alcohol,3,28/12/2015,alcohol,0
+123579733,52,male,White,No,18/11/2015,oxycodone/oxycontin,30,23/11/2015,heroin,26
+123579746,27,male,Hispanic,No,30/10/2015,alcohol,6,04/11/2015,alcohol,1
+123580749,52,female,White,No,06/01/2016,alcohol,20,11/01/2016,alcohol,24
+123580750,55,female,White,No,08/04/2016,heroin,14,13/04/2016,heroin,8
+123580761,53,female,White,Yes,20/04/2016,alcohol,8,25/04/2016,alcohol,2
+123580762,31,male,White,No,07/11/2015,alcohol,27,12/11/2015,alcohol,25
+123580763,46,female,White,Yes,02/03/2016,alcohol,30,07/03/2016,alcohol,24
+123580764,74,female,White,Yes,17/07/2015,alcohol,4,22/07/2015,alcohol,0
+123580780,53,male,White,No,18/12/2015,alcohol,30,23/12/2015,alcohol,24
+123580798,50,female,African American,No,14/03/2016,alcohol,26,19/03/2016,alcohol,20
+123580799,67,male,White,Yes,15/10/2015,alcohol,25,20/10/2015,alcohol,21
+123580802,55,male,White,No,15/02/2016,alcohol,30,20/02/2016,alcohol,24
+123580803,43,male,Hispanic,No,11/05/2016,alcohol,30,16/05/2016,alcohol,24
+123580809,38,male,White,No,26/08/2015,oxycodone/oxycontin,4,31/08/2015,oxycodone/oxycontin,0
+123580823,50,male,White,No,04/11/2015,heroin,30,09/11/2015,heroin,28
+123580825,25,female,White,No,01/04/2016,alcohol,30,06/04/2016,alcohol,24
+123580826,45,male,White,No,20/08/2015,methamphetamine,30,25/08/2015,methamphetamine,25
+123580829,49,male,African American,Yes,28/08/2015,alcohol,30,15/10/2015,alcohol,24
+123580832,42,male,White,No,04/11/2015,alcohol,12,09/11/2015,alcohol,4
+123580833,23,male,White,No,03/03/2016,alcohol,30,08/03/2016,alcohol,24
+123580834,36,female,White,No,18/09/2015,alcohol,30,23/09/2015,alcohol,24
+123580837,48,male,African American,No,03/07/2015,methamphetamine,5,08/07/2015,methamphetamine,0
+123580839,46,male,Hispanic,No,20/04/2016,alcohol,30,25/04/2016,alcohol,24
+123580846,71,female,White,Yes,03/12/2015,alcohol,6,08/12/2015,alcohol,4
+123580863,26,male,African American,No,29/07/2015,methamphetamine,14,01/09/2015,methamphetamine,8
+123580864,39,female,White,No,02/09/2015,alcohol,30,07/09/2015,alcohol,24
+123580865,27,female,White,No,27/09/2015,alcohol,1,02/10/2015,alcohol,0
+123580884,57,male,White,No,07/10/2015,alcohol,3,12/10/2015,alcohol,2
+123580885,24,female,Hispanic,Yes,07/10/2015,alcohol,30,01/11/2015,cocaine/crack,19
+123580887,37,male,White,No,28/10/2015,heroin,30,02/11/2015,heroin,27
+123580889,20,male,Other or Multiple Race Groups,Yes,30/10/2015,alcohol,30,04/11/2015,alcohol,25
+123580896,40,female,White,No,04/11/2015,heroin,30,09/11/2015,heroin,23
+123580897,51,female,White,No,04/11/2015,alcohol,10,09/11/2015,alcohol,6
+123580905,69,male,White,No,04/11/2015,heroin,30,09/11/2015,heroin,28
+123580906,22,male,African American,No,30/12/2015,alcohol,30,04/01/2016,alcohol,24
+123580908,56,female,White,No,25/11/2015,alcohol,30,30/11/2015,alcohol,27
+123580912,32,male,White,No,07/01/2016,cocaine/crack,2,12/01/2016,cocaine/crack,0
+123580923,73,female,White,No,20/02/2016,alcohol,5,25/02/2016,alcohol,0
+123580928,52,male,White,No,28/04/2016,other,1,03/05/2016,other,0
+123580938,54,male,African American,No,26/01/2016,alcohol,30,31/01/2016,alcohol,24
+123580942,59,male,American Indian,Yes,10/02/2016,methamphetamine,6,01/04/2016,methamphetamine,0
+123580957,56,female,White,No,12/02/2016,alcohol,21,17/02/2016,alcohol,15
+123580960,43,male,White,No,19/02/2016,alcohol,30,24/02/2016,alcohol,24
+123580961,60,male,White,Yes,27/02/2016,alcohol,30,03/03/2016,alcohol,24
+123580962,48,female,White,No,09/03/2016,marijuana,20,14/03/2016,marijuana,14
+123580963,54,male,White,Yes,24/03/2016,alcohol,7,29/03/2016,alcohol,1
+123580966,28,female,White,No,23/06/2016,other,30,28/06/2016,other,24
+123580972,39,female,White,No,05/04/2016,methamphetamine,5,10/04/2016,methamphetamine,0
+123580974,24,male,White,No,07/04/2016,alcohol,30,12/04/2016,alcohol,24
+123580975,49,male,White,No,01/05/2016,heroin,21,06/05/2016,heroin,15
+123580976,57,female,White,No,02/05/2016,methamphetamine,7,07/05/2016,methamphetamine,1
+123580984,27,male,Hispanic,No,30/06/2016,methamphetamine,4,05/07/2016,methamphetamine,0
+123580985,42,male,African American,No,27/08/2015,alcohol,30,02/09/2015,alcohol,21
+123581001,59,male,White,Yes,09/10/2015,alcohol,20,15/10/2015,alcohol,13
+123581005,39,male,White,Yes,12/08/2015,alcohol,14,18/08/2015,alcohol,7
+123581026,38,male,White,No,07/10/2015,alcohol,4,13/10/2015,alcohol,0
+123581027,27,male,White,No,15/06/2016,alcohol,30,21/06/2016,alcohol,30
+123581033,27,male,White,No,08/12/2015,alcohol,30,14/12/2015,alcohol,0
+123581035,50,male,White,No,05/04/2016,alcohol,10,11/04/2016,alcohol,3
+123581039,44,male,White,No,01/12/2015,alcohol,4,07/12/2015,alcohol,0
+123581046,36,female,White,No,22/07/2015,alcohol,27,28/07/2015,alcohol,23
+123581048,45,male,White,No,28/08/2015,methamphetamine,2,03/09/2015,methamphetamine,0
+123581049,54,male,African American,No,03/11/2015,methamphetamine,1,09/11/2015,methamphetamine,0
+123581051,51,male,White,No,11/11/2015,marijuana,10,17/11/2015,marijuana,0
+123581052,53,male,White,No,03/04/2016,alcohol,30,09/04/2016,alcohol,23
+123581053,50,male,White,No,16/07/2015,methamphetamine,10,22/07/2015,methamphetamine,3
+123581059,63,female,White,No,10/06/2016,methamphetamine,3,16/06/2016,methamphetamine,0
+123581060,47,male,African American,No,13/04/2016,methamphetamine,4,19/04/2016,methamphetamine,0
+123581070,41,male,White,No,16/07/2015,methamphetamine,1,22/07/2015,methamphetamine,0
+123581071,23,male,Hispanic,No,11/11/2015,methamphetamine,4,17/11/2015,methamphetamine,0
+123581079,70,male,White,No,26/07/2015,alcohol,2,01/08/2015,alcohol,0
+123581080,24,male,White,No,17/11/2015,alcohol,26,23/11/2015,alcohol,22
+123581081,34,male,Hispanic,No,02/02/2016,alcohol,30,08/02/2016,methamphetamine,24
+123581087,27,male,White,No,23/05/2016,alcohol,25,29/05/2016,alcohol,18
+123581098,33,male,White,No,23/07/2015,alcohol,30,29/07/2015,alcohol,23
+123581100,50,female,Hispanic,No,31/07/2015,other,1,06/08/2015,other,0
+123581103,51,male,White,No,02/12/2015,alcohol,30,08/12/2015,alcohol,26
+123581104,47,male,Hispanic,No,25/12/2015,heroin,30,15/01/2016,heroin,23
+123581105,31,female,White,Yes,13/10/2015,heroin,15,19/10/2015,heroin,11
+123581106,30,female,African American,No,25/09/2015,heroin,30,15/10/2015,heroin,25
+123581109,23,male,African American,No,06/10/2015,cocaine/crack,30,15/10/2015,cocaine/crack,23
+123581110,47,male,Hispanic,No,13/10/2015,alcohol,30,19/10/2015,alcohol,26
+123581130,73,male,White,No,18/03/2016,heroin,30,24/03/2016,heroin,23
+123581135,32,female,Other or Multiple Race Groups,No,09/11/2015,alcohol,30,15/11/2015,alcohol,23
+123581136,57,male,White,No,01/12/2015,methamphetamine,7,07/12/2015,methamphetamine,0
+123581137,50,male,White,No,02/12/2015,alcohol,15,08/12/2015,alcohol,8
+123581138,43,male,Hispanic,No,02/12/2015,cocaine/crack,30,20/12/2015,cocaine/crack,26
+123581139,28,male,White,No,17/12/2015,alcohol,30,23/12/2015,alcohol,23
+123581140,37,male,Hispanic,No,02/02/2016,alcohol,15,08/02/2016,alcohol,9
+123581141,28,male,White,No,29/03/2016,other,15,04/04/2016,other,8
+123581143,57,female,White,No,07/05/2016,alcohol,30,13/05/2016,alcohol,23
+123581144,30,female,Other or Multiple Race Groups,No,18/06/2016,alcohol,20,24/06/2016,alcohol,13
+123581151,33,female,White,No,14/06/2016,alcohol,30,20/06/2016,alcohol,23
+123581152,25,male,White,No,11/09/2015,heroin,5,18/09/2015,heroin,0
+123581153,49,female,African American,Yes,12/01/2016,alcohol,20,01/03/2016,alcohol,23
+123581170,24,male,Hispanic,No,24/02/2016,alcohol,30,02/03/2016,methamphetamine,9
+123581171,49,male,White,No,02/07/2015,alcohol,15,09/07/2015,alcohol,7
+123581173,35,male,White,No,07/12/2015,methamphetamine,1,14/12/2015,alcohol,7
+123581182,37,male,White,No,15/02/2016,other,14,22/02/2016,other,21
+123581183,50,male,White,Yes,17/03/2016,marijuana,1,24/03/2016,marijuana,0
+123581188,57,female,African American,No,14/09/2015,marijuana,30,21/09/2015,methamphetamine,27
+123581195,35,male,White,No,11/04/2016,alcohol,6,18/04/2016,alcohol,0
+123581201,25,male,White,No,02/11/2015,alcohol,30,09/11/2015,alcohol,25
+123581202,52,male,White,No,06/10/2015,alcohol,14,13/10/2015,alcohol,6
+123581230,46,male,White,No,28/10/2015,alcohol,30,04/11/2015,alcohol,24
+123581236,24,male,White,No,29/04/2016,alcohol,25,06/05/2016,alcohol,17
+123581241,68,male,African American,No,16/09/2015,cocaine/crack,1,23/09/2015,cocaine/crack,0
+123581242,53,male,White,No,23/11/2015,methamphetamine,7,30/11/2015,methamphetamine,3
+123581257,29,male,White,No,28/09/2015,methamphetamine,1,05/10/2015,methamphetamine,0
+123581258,43,male,White,No,28/08/2015,methamphetamine,2,04/09/2015,methamphetamine,0
+123581268,54,male,White,No,03/07/2015,alcohol,14,10/07/2015,alcohol,6
+123581270,52,female,White,No,26/08/2015,methamphetamine,20,02/09/2015,methamphetamine,17
+123581271,29,female,White,No,31/07/2015,alcohol,20,07/08/2015,alcohol,12
+123581283,31,male,White,No,16/09/2015,marijuana,1,23/09/2015,marijuana,0
+123581307,38,male,Hispanic,No,12/10/2015,alcohol,10,19/10/2015,alcohol,0
+123581313,27,female,White,No,06/10/2015,other,20,13/10/2015,methamphetamine,16
+123581314,46,male,White,No,02/11/2015,heroin,5,09/11/2015,heroin,1
+123581315,32,male,Other or Multiple Race Groups,No,10/11/2015,alcohol,30,17/11/2015,alcohol,22
+123581316,58,male,White,No,21/12/2015,cocaine/crack,30,28/12/2015,cocaine/crack,22
+123581326,42,male,African American,No,25/03/2016,heroin,23,20/04/2016,heroin,15
+123581329,26,male,White,No,13/01/2016,methamphetamine,30,20/01/2016,methamphetamine,22
+123581330,40,male,White,No,02/03/2016,heroin,30,09/03/2016,heroin,22
+123581334,32,male,White,No,08/03/2016,alcohol,1,15/03/2016,alcohol,0
+123581338,36,male,White,No,08/04/2016,methamphetamine,25,15/04/2016,methamphetamine,17
+123581349,48,male,White,No,02/05/2016,methamphetamine,2,09/05/2016,methamphetamine,0
+123581351,60,male,African American,No,19/05/2016,heroin,10,30/05/2016,heroin,2
+123581352,21,male,White,No,07/06/2016,cocaine/crack,10,14/06/2016,cocaine/crack,2
+123581354,66,female,White,No,07/06/2016,alcohol,1,14/06/2016,alcohol,0
+123581355,75,male,White,Yes,24/07/2015,cocaine/crack,30,01/08/2015,cocaine/crack,21
+123581359,35,male,White,No,24/07/2015,other,30,01/08/2015,other,21
+123581363,46,male,White,No,08/09/2015,heroin,10,16/09/2015,cocaine/crack,0
+123581368,67,male,White,No,16/07/2015,methamphetamine,30,24/07/2015,methamphetamine,21
+123581369,25,female,White,No,13/01/2016,methamphetamine,1,21/01/2016,methamphetamine,0
+123581385,40,male,White,No,15/12/2015,other,25,23/12/2015,other,7
+123581386,55,female,White,No,16/05/2016,alcohol,30,24/05/2016,alcohol,30
+123581387,32,female,White,No,06/01/2016,alcohol,30,14/01/2016,alcohol,21
+123581388,51,female,Hispanic,No,04/02/2016,alcohol,14,12/02/2016,alcohol,5
+123581389,62,male,White,No,23/07/2015,methamphetamine,5,31/07/2015,methamphetamine,0
+123581393,26,male,Other or Multiple Race Groups,No,04/11/2015,other,2,12/11/2015,other,0
+123581394,48,female,White,No,08/06/2016,alcohol,30,16/06/2016,alcohol,21
+123581396,24,male,Other or Multiple Race Groups,No,14/03/2016,alcohol,30,22/03/2016,alcohol,21
+123581407,49,male,African American,No,05/08/2015,oxycodone/oxycontin,30,13/08/2015,oxycodone/oxycontin,21
+123581420,40,female,White,No,05/08/2015,heroin,2,13/08/2015,heroin,0
+123581423,42,male,White,No,18/08/2015,cocaine/crack,1,26/08/2015,cocaine/crack,0
+123581424,28,male,Hispanic,No,25/08/2015,methamphetamine,3,02/09/2015,methamphetamine,0
+123581425,40,male,White,No,20/10/2015,alcohol,30,28/10/2015,alcohol,22
+123581451,58,male,White,No,20/10/2015,alcohol,15,28/10/2015,alcohol,7
+123581454,63,male,African American,No,12/01/2016,methamphetamine,7,20/01/2016,methamphetamine,0
+123581455,39,male,White,No,25/04/2016,heroin,30,03/05/2016,heroin,21
+123581458,45,male,African American,No,09/05/2016,alcohol,12,17/05/2016,alcohol,12
+123581463,58,male,White,No,23/06/2016,methamphetamine,27,01/07/2016,methamphetamine,18
+123581465,48,male,White,No,17/09/2015,alcohol,30,26/09/2015,alcohol,20
+123581467,33,female,White,No,02/04/2016,alcohol,30,11/04/2016,alcohol,20
+123581468,72,male,White,No,31/08/2015,alcohol,6,09/09/2015,alcohol,0
+123581482,82,male,White,No,14/11/2015,cocaine/crack,30,23/11/2015,cocaine/crack,21
+123581483,44,male,White,No,24/08/2015,methamphetamine,9,02/09/2015,methamphetamine,0
+123581485,24,male,Other or Multiple Race Groups,No,20/10/2015,methamphetamine,15,29/10/2015,methamphetamine,5
+123581486,25,male,White,No,19/03/2016,heroin,28,28/03/2016,heroin,18
+123581488,25,male,White,No,05/01/2016,methamphetamine,4,14/01/2016,methamphetamine,0
+123581490,56,male,White,No,15/05/2016,alcohol,15,24/05/2016,alcohol,15
+123581493,26,male,Other or Multiple Race Groups,No,28/09/2015,methamphetamine,4,07/10/2015,methamphetamine,0
+123581500,52,male,White,No,28/03/2016,alcohol,26,06/04/2016,alcohol,14
+123581508,65,male,White,No,30/03/2016,heroin,30,08/04/2016,heroin,20
+123581518,22,male,Asian or Pacific Islander,No,31/05/2016,marijuana,15,09/06/2016,marijuana,5
+123581523,58,male,White,No,20/11/2015,alcohol,20,30/11/2015,alcohol,14
+123581530,21,male,African American,Yes,08/12/2015,alcohol,3,05/01/2016,alcohol,0
+123581532,36,male,White,Yes,25/07/2015,methamphetamine,30,04/08/2015,methamphetamine,19
+123581533,24,male,White,No,04/08/2015,alcohol,2,14/08/2015,alcohol,0
+123581550,51,male,Other or Multiple Race Groups,No,07/08/2015,alcohol,30,17/08/2015,alcohol,19
+123581552,44,male,White,No,31/05/2016,alcohol,10,10/06/2016,alcohol,0
+123581561,52,male,White,No,02/07/2015,alcohol,3,12/07/2015,alcohol,0
+123581562,57,male,White,No,13/11/2015,methamphetamine,1,23/11/2015,methamphetamine,0
+123581571,52,female,Hispanic,No,31/05/2016,alcohol,30,10/06/2016,alcohol,12
+123581572,24,male,White,No,03/06/2016,methamphetamine,30,13/06/2016,methamphetamine,19
+123581573,28,male,White,No,15/09/2015,alcohol,15,25/09/2015,alcohol,4
+123581576,51,female,African American,No,24/09/2015,heroin,30,04/10/2015,heroin,19
+123581577,28,male,White,No,23/10/2015,methamphetamine,20,02/11/2015,methamphetamine,11
+123581578,48,male,White,No,23/10/2015,alcohol,23,02/11/2015,alcohol,13
+123581579,57,male,White,No,30/10/2015,alcohol,28,09/11/2015,alcohol,17
+123581580,54,female,White,No,20/11/2015,cocaine/crack,15,30/11/2015,cocaine/crack,9
+123581581,38,male,Hispanic,No,04/12/2015,oxycodone/oxycontin,30,14/12/2015,oxycodone/oxycontin,19
+123581589,58,male,White,No,14/06/2016,methamphetamine,30,24/06/2016,methamphetamine,19
+123581590,33,female,White,No,02/02/2016,alcohol,10,12/02/2016,alcohol,0
+123581591,53,male,White,Yes,11/03/2016,marijuana,15,21/03/2016,marijuana,4
+123581622,31,male,Other or Multiple Race Groups,No,18/03/2016,alcohol,18,28/03/2016,alcohol,7
+123581623,51,female,White,No,14/04/2016,heroin,7,25/04/2016,methamphetamine,0
+123581631,42,female,White,No,23/07/2015,alcohol,30,03/08/2015,alcohol,18
+123581634,75,male,White,Yes,21/02/2016,heroin,29,03/03/2016,heroin,8
+123581635,65,male,White,No,26/02/2016,alcohol,3,08/03/2016,alcohol,0
+123581636,57,female,White,No,30/07/2015,alcohol,3,10/08/2015,alcohol,0
+123581643,24,male,Hispanic,No,04/01/2016,other,1,15/01/2016,other,0
+123581656,29,male,Hispanic,No,23/01/2016,cocaine/crack,1,03/02/2016,cocaine/crack,0
+123581672,30,male,Other or Multiple Race Groups,No,12/02/2016,alcohol,30,23/02/2016,alcohol,18
+123581679,25,male,White,No,01/05/2016,alcohol,8,12/05/2016,alcohol,0
+123581681,45,male,White,No,18/07/2015,methamphetamine,4,30/07/2015,methamphetamine,0
+123581685,22,male,Hispanic,No,23/12/2015,alcohol,10,04/01/2016,alcohol,0
+123581703,21,female,White,No,18/11/2015,alcohol,18,30/11/2015,alcohol,9
+123581705,63,male,White,No,24/03/2016,heroin,25,05/04/2016,heroin,12
+123581716,45,male,White,No,16/06/2016,methamphetamine,1,28/06/2016,methamphetamine,0
+123581726,30,female,African American,No,17/07/2015,alcohol,30,29/07/2015,alcohol,17
+123582742,53,male,White,No,05/08/2015,alcohol,20,17/08/2015,alcohol,7
+123583744,27,male,White,No,09/07/2015,other,28,21/07/2015,other,15
+123583751,56,male,White,No,30/07/2015,cocaine/crack,3,11/08/2015,cocaine/crack,0
+123583757,42,male,African American,No,05/04/2016,alcohol,30,17/04/2016,alcohol,8
+123583766,28,male,White,No,16/03/2016,alcohol,29,28/03/2016,alcohol,18
+123583768,40,male,White,No,19/01/2016,alcohol,30,01/02/2016,alcohol,17
+123583780,41,male,White,No,10/10/2015,alcohol,2,23/10/2015,alcohol,0
+123583791,59,male,Other or Multiple Race Groups,No,03/05/2016,alcohol,30,16/05/2016,alcohol,10
+123583792,48,female,White,No,12/01/2016,alcohol,1,25/01/2016,alcohol,0
+123583802,62,male,White,No,16/01/2016,other,30,29/01/2016,other,6
+123583809,34,female,Hispanic,No,30/06/2016,alcohol,30,13/07/2016,alcohol,11
+123583810,39,female,White,Yes,09/09/2015,alcohol,20,23/09/2015,alcohol,7
+123583818,51,male,Asian or Pacific Islander,Yes,15/07/2015,methamphetamine,1,29/07/2015,methamphetamine,0
+123583834,34,female,White,No,21/10/2015,alcohol,30,04/11/2015,alcohol,17
+123583848,60,male,White,Yes,17/08/2015,methamphetamine,30,31/08/2015,methamphetamine,15
+123583860,26,male,White,No,28/09/2015,methamphetamine,3,12/10/2015,methamphetamine,0
+123583861,63,female,White,No,08/10/2015,alcohol,30,22/10/2015,alcohol,16
+123583873,60,female,White,No,11/04/2016,methamphetamine,4,25/04/2016,methamphetamine,0
+123583874,32,male,White,No,15/07/2015,alcohol,30,30/07/2015,alcohol,14
+123583887,38,male,White,No,20/10/2015,alcohol,25,04/11/2015,alcohol,16
+123584887,41,male,White,No,08/01/2016,methamphetamine,1,23/01/2016,methamphetamine,0
+123584888,26,male,White,No,21/03/2016,alcohol,30,05/04/2016,alcohol,14
+123584899,22,female,White,No,19/04/2016,heroin,30,04/05/2016,heroin,0
+123584900,42,male,White,Yes,01/02/2016,alcohol,30,17/02/2016,alcohol,13
+123584901,37,male,White,No,16/05/2016,alcohol,12,01/06/2016,alcohol,0
+123584909,35,female,White,No,29/06/2016,alcohol,4,15/07/2016,alcohol,0
+123584910,48,male,White,No,06/02/2016,alcohol,30,22/02/2016,alcohol,13
+123584918,24,male,White,No,15/02/2016,methamphetamine,1,02/03/2016,methamphetamine,0
+123584919,28,male,White,No,18/01/2016,alcohol,30,03/02/2016,alcohol,13
+123584922,65,male,White,No,06/06/2016,alcohol,30,22/06/2016,alcohol,13
+123584923,25,male,White,No,27/10/2015,methamphetamine,2,13/11/2015,methamphetamine,0
+123584925,38,male,White,No,19/09/2015,alcohol,30,06/10/2015,alcohol,12
+123584926,34,male,White,No,24/04/2016,alcohol,1,11/05/2016,alcohol,0
+123584927,72,female,White,No,23/08/2015,alcohol,30,09/09/2015,alcohol,14
+123584937,25,male,White,No,08/09/2015,methamphetamine,25,25/09/2015,methamphetamine,7
+123584939,39,female,Hispanic,No,14/09/2015,methamphetamine,21,01/10/2015,methamphetamine,8
+123584978,29,male,Other or Multiple Race Groups,No,21/04/2016,methamphetamine,30,09/05/2016,methamphetamine,11
+123584979,37,male,White,No,04/03/2016,methamphetamine,2,22/03/2016,methamphetamine,0
+123584980,25,male,Hispanic,No,11/10/2015,methamphetamine,2,29/10/2015,methamphetamine,0
+123584981,35,male,White,No,16/01/2016,methamphetamine,5,03/02/2016,methamphetamine,0
+123584982,53,male,White,No,22/05/2016,alcohol,6,09/06/2016,alcohol,0
+123584985,48,female,White,No,12/09/2015,alcohol,30,01/10/2015,alcohol,10
+123584986,27,male,White,No,08/10/2015,marijuana,4,27/10/2015,marijuana,0
+123584987,29,male,Hispanic,No,19/11/2015,alcohol,30,09/12/2015,alcohol,20
+123584990,23,male,White,No,13/05/2016,alcohol,15,02/06/2016,alcohol,0
+123584994,29,male,African American,No,29/06/2016,other,30,19/07/2016,other,9
+123585007,23,male,Hispanic,No,28/09/2015,alcohol,30,19/10/2015,alcohol,20
+123585009,59,male,White,No,14/09/2015,cocaine/crack,26,05/10/2015,alcohol,30
+123585018,52,male,White,No,29/03/2016,methamphetamine,5,19/04/2016,methamphetamine,0
+123585026,44,male,African American,No,18/08/2015,alcohol,20,09/09/2015,alcohol,0
+123585027,35,male,Hispanic,No,10/03/2016,alcohol,10,01/04/2016,alcohol,0
+123585048,33,female,Other or Multiple Race Groups,No,02/05/2016,alcohol,30,25/05/2016,alcohol,6
+123585056,24,male,White,No,07/02/2016,alcohol,15,01/03/2016,alcohol,0
+123585058,32,male,White,No,21/09/2015,alcohol,20,15/10/2015,alcohol,8
+123585065,54,male,White,No,29/04/2016,alcohol,12,23/05/2016,alcohol,0
+123585073,48,male,White,No,20/06/2016,alcohol,30,15/07/2016,alcohol,5
+123585074,35,male,American Indian,No,20/06/2016,methamphetamine,20,15/07/2016,methamphetamine,20
+123586078,52,female,White,No,08/09/2015,alcohol,30,05/10/2015,alcohol,0
+123586082,45,female,White,Yes,13/04/2016,alcohol,26,11/05/2016,alcohol,0
+123586089,37,male,White,No,20/07/2015,methamphetamine,2,17/08/2015,methamphetamine,0
+123586091,34,male,Hispanic,No,19/10/2015,alcohol,14,17/11/2015,alcohol,0
+123586098,22,male,American Indian,Yes,29/09/2015,alcohol,20,01/11/2015,alcohol,0
+123586109,32,male,Hispanic,No,24/06/2016,alcohol,22,23/07/2016,alcohol,0
+123586110,20,female,White,No,06/07/2015,methamphetamine,30,04/08/2015,methamphetamine,0
+123586111,29,male,Hispanic,No,04/04/2016,methamphetamine,30,03/05/2016,methamphetamine,0
+123586112,42,male,White,No,01/03/2016,methamphetamine,2,31/03/2016,methamphetamine,0
+123586113,23,male,White,No,14/01/2016,marijuana,1,13/02/2016,marijuana,0
+123586118,28,male,Asian or Pacific Islander,No,15/06/2016,alcohol,29,15/07/2016,alcohol,29
+123586119,20,male,White,No,04/12/2015,alcohol,30,04/01/2016,alcohol,0
+123586129,63,female,White,No,10/11/2015,alcohol,30,11/12/2015,alcohol,0
+123586142,57,male,White,Yes,28/02/2016,alcohol,2,01/04/2016,alcohol,0
+123586143,32,male,White,No,06/05/2016,methamphetamine,1,09/06/2016,methamphetamine,0
+123586144,52,male,Hispanic,No,12/05/2016,alcohol,1,21/07/2016,alcohol,0

@@ -1,0 +1,22 @@
+age,gender,race,disability,start_date,start_substance,start_freq,exit_date,exit_substance,exit_freq,treatment_days,start_freq_relative,exit_freq_relative,change_freq,change_freq_relative,change_freq_pctpt,start_year_month,age_group,race_general,program_success,enrollment_v_target,change_substance
+45,male,White,No,2015-12-31,methamphetamine,10,2016-01-15,None,9,15,33.33333333333333,30.0,-1,-9.999999999999986,-3.3333333333333286,2015-12,31-50,white,successful,> 5 days,True
+28,male,African American,Yes,2015-09-08,heroin,2,2015-10-09,alcohol,30,31,6.666666666666667,100.0,28,1399.9999999999998,93.33333333333333,2015-09,20-30,BIPOC,not successful,> 5 days,True
+47,male,White,Yes,2015-12-04,marijuana,14,2015-12-05,methamphetamine,28,1,46.666666666666664,93.33333333333333,14,100.0,46.666666666666664,2015-12,31-50,white,not successful,<= 5 days,True
+32,male,White,No,2016-06-20,marijuana,2,2016-06-21,alcohol,30,1,6.666666666666667,100.0,28,1399.9999999999998,93.33333333333333,2016-06,31-50,white,not successful,<= 5 days,True
+52,male,White,No,2015-12-06,alcohol,3,2015-12-07,methamphetamine,2,1,10.0,6.666666666666667,-1,-33.33333333333333,-3.333333333333333,2015-12,51-70,white,successful,<= 5 days,True
+51,male,White,No,2016-06-15,other,7,2016-06-16,heroin,5,1,23.333333333333332,16.666666666666664,-2,-28.571428571428577,-6.666666666666668,2016-06,51-70,white,successful,<= 5 days,True
+46,male,White,No,2015-12-02,other,1,2015-12-04,oxycodone/oxycontin,0,2,3.3333333333333335,0.0,-1,-100.0,-3.3333333333333335,2015-12,31-50,white,successful,<= 5 days,True
+41,male,White,No,2015-08-19,marijuana,30,2015-08-22,methamphetamine,26,3,100.0,86.66666666666667,-4,-13.333333333333327,-13.333333333333329,2015-08,31-50,white,successful,<= 5 days,True
+57,male,White,No,2015-07-16,methamphetamine,10,2015-07-19,heroin,6,3,33.33333333333333,20.0,-4,-39.99999999999999,-13.333333333333329,2015-07,51-70,white,successful,<= 5 days,True
+57,male,White,No,2015-10-13,other,5,2015-10-16,alcohol,0,3,16.666666666666664,0.0,-5,-100.0,-16.666666666666664,2015-10,51-70,white,successful,<= 5 days,True
+25,male,Hispanic,No,2015-08-23,heroin,7,2015-08-26,alcohol,3,3,23.333333333333332,10.0,-4,-57.14285714285714,-13.333333333333332,2015-08,20-30,BIPOC,successful,<= 5 days,True
+52,male,White,No,2015-11-18,oxycodone/oxycontin,30,2015-11-23,heroin,26,5,100.0,86.66666666666667,-4,-13.333333333333327,-13.333333333333329,2015-11,51-70,white,successful,<= 5 days,True
+24,female,Hispanic,Yes,2015-10-07,alcohol,30,2015-11-01,cocaine/crack,19,25,100.0,63.33333333333333,-11,-36.66666666666667,-36.66666666666667,2015-10,20-30,BIPOC,successful,> 5 days,True
+34,male,Hispanic,No,2016-02-02,alcohol,30,2016-02-08,methamphetamine,24,6,100.0,80.0,-6,-20.0,-20.0,2016-02,31-50,BIPOC,successful,> 5 days,True
+24,male,Hispanic,No,2016-02-24,alcohol,30,2016-03-02,methamphetamine,9,7,100.0,30.0,-21,-70.0,-70.0,2016-02,20-30,BIPOC,successful,> 5 days,True
+35,male,White,No,2015-12-07,methamphetamine,1,2015-12-14,alcohol,7,7,3.3333333333333335,23.333333333333332,6,600.0,20.0,2015-12,31-50,white,not successful,> 5 days,True
+57,female,African American,No,2015-09-14,marijuana,30,2015-09-21,methamphetamine,27,7,100.0,90.0,-3,-10.0,-10.0,2015-09,51-70,BIPOC,successful,> 5 days,True
+27,female,White,No,2015-10-06,other,20,2015-10-13,methamphetamine,16,7,66.66666666666666,53.333333333333336,-4,-19.999999999999986,-13.333333333333321,2015-10,20-30,white,successful,> 5 days,True
+46,male,White,No,2015-09-08,heroin,10,2015-09-16,cocaine/crack,0,8,33.33333333333333,0.0,-10,-100.0,-33.33333333333333,2015-09,31-50,white,successful,> 5 days,True
+51,female,White,No,2016-04-14,heroin,7,2016-04-25,methamphetamine,0,11,23.333333333333332,0.0,-7,-100.0,-23.333333333333332,2016-04,51-70,white,successful,> 5 days,True
+59,male,White,No,2015-09-14,cocaine/crack,26,2015-10-05,alcohol,30,21,86.66666666666667,100.0,4,15.384615384615378,13.333333333333329,2015-09,51-70,white,not successful,> 5 days,True

@@ -1,0 +1,6 @@
+age,gender,race,disability,start_date,start_substance,start_freq,exit_date,exit_substance,exit_freq,treatment_days,start_freq_relative,exit_freq_relative,change_freq,change_freq_relative,change_freq_pctpt,start_year_month,age_group,race_general,program_success,enrollment_v_target,change_substance
+28,male,African American,Yes,2015-09-08,heroin,2,2015-10-09,alcohol,30,31,6.666666666666667,100.0,28,1399.9999999999998,93.33333333333333,2015-09,20-30,BIPOC,not successful,> 5 days,True
+47,male,White,Yes,2015-12-04,marijuana,14,2015-12-05,methamphetamine,28,1,46.666666666666664,93.33333333333333,14,100.0,46.666666666666664,2015-12,31-50,white,not successful,<= 5 days,True
+32,male,White,No,2016-06-20,marijuana,2,2016-06-21,alcohol,30,1,6.666666666666667,100.0,28,1399.9999999999998,93.33333333333333,2016-06,31-50,white,not successful,<= 5 days,True
+35,male,White,No,2015-12-07,methamphetamine,1,2015-12-14,alcohol,7,7,3.3333333333333335,23.333333333333332,6,600.0,20.0,2015-12,31-50,white,not successful,> 5 days,True
+59,male,White,No,2015-09-14,cocaine/crack,26,2015-10-05,alcohol,30,21,86.66666666666667,100.0,4,15.384615384615378,13.333333333333329,2015-09,51-70,white,not successful,> 5 days,True
